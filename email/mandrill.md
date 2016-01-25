@@ -6,3 +6,4 @@ http://mandrill.com
 * tracking analytics
 * A/B testing
 * templates & CSS inlining
+* Supports inbound email (posting to URL)
