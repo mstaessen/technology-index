@@ -1,1 +1,3 @@
 # Mailchimp
+
+* email campaigns
