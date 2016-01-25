@@ -4,6 +4,6 @@
 * Mailing lists
 * SMTP relay
 * Send API
-* Parse mail
+* Supports inbound mail
 * A/B testing
 * tracking
