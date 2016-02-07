@@ -46,6 +46,7 @@
 
 * BrowserStack: https://www.browserstack.com/
 * Litmus: https://litmus.com/
+* Inbox Inspector: http://www.inboxinspector.com/
 * Xamarin Test Cloud:
 
 
