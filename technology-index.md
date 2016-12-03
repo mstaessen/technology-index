@@ -1,5 +1,9 @@
 ## Web development
 
+### Web Components
+
+* Monaco Editor: https://microsoft.github.io/monaco-editor/index.html (Powers Visual Studio Code & VSTS)
+
 ### CSS libraries
 
 * Bootstrap: http://getbootstrap.com/
