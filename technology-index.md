@@ -223,3 +223,12 @@
 * DotMemory:
 * DotCover:
 * Rider:
+
+## Infrastructure
+
+### Uptime/Service monitoring
+
+* Status.io: https://status.io/
+* Cachet: https://cachethq.io/
+* Pingdom: https://pingdom.com/
+* Atlassian Statuspage: https://www.statuspage.io/
