@@ -161,16 +161,15 @@
 * SQL Server: http://www.microsoft.com/en-us/server-cloud/products/sql-server/
 * MySQL: https://www.mysql.com/
 * PostgreSQL: http://www.postgresql.org/
+* DB2: http://www.ibm.com/analytics/us/en/technology/db2/
+
+#### NoSQL
 * MongoDB: https://www.mongodb.com/
 * RethinkDB: https://www.rethinkdb.com/
 * Azure Document DB: https://azure.microsoft.com/en-us/services/documentdb/
 * RavenDB: https://ravendb.net/
 * neo4j: http://neo4j.com/
 * ArangoDB: https://www.arangodb.com
-
-
-
-
 
 ## Mobile
 
