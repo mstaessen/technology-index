@@ -167,7 +167,7 @@
 * RavenDB: https://ravendb.net/
 * neo4j: http://neo4j.com/
 * ArangoDB: https://www.arangodb.com
-
+* DB2: http://www.ibm.com/analytics/us/en/technology/db2/
 
 
 
