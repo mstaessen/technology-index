@@ -54,7 +54,6 @@
 * Inbox Inspector: http://www.inboxinspector.com/
 * Xamarin Test Cloud:
 
-
 ### Images / Icons
 
 * FontAwesome: https://fortawesome.github.io/Font-Awesome/
@@ -107,8 +106,11 @@
 ### Troubleshooting / Monitoring
 
 * Airbrake: https://airbrake.io/
-* Application Insights:
+* Application Insights: https://azure.microsoft.com/en-us/services/application-insights/
 * Raygun: https://raygun.com/
+* Stackify Prefix: https://stackify.com/prefix/
+* AppDynamics: https://www.appdynamics.com/
+* Glimpse: http://getglimpse.com/
 
 
 ### Version Control
@@ -181,8 +183,6 @@
 * Xamarin Forms:
 * Crosswalk: https://crosswalk-project.org/
 
-
-
 ### Web
 
 * Onsen: https://onsen.io/
@@ -212,7 +212,7 @@
 * Sass
 * Less
 
-###
+### Application Performance Monitoring
 
 ### .NET
 
