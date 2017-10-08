@@ -180,6 +180,7 @@
 * Gmaster: https://gmaster.io/
 * Sourcetree: https://www.sourcetreeapp.com/
 * Tower: https://www.git-tower.com/
+* GitKraken: https://www.gitkraken.com/
 
 ## Mobile
 
