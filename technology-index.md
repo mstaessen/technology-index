@@ -173,6 +173,14 @@
 * neo4j: http://neo4j.com/
 * ArangoDB: https://www.arangodb.com
 
+### Tooling
+
+#### Git clients
+
+* Gmaster: https://gmaster.io/
+* Sourcetree: https://www.sourcetreeapp.com/
+* Tower: https://www.git-tower.com/
+
 ## Mobile
 
 ### Application frameworks:
