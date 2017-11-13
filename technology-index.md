@@ -8,7 +8,7 @@
 
 * Bootstrap: http://getbootstrap.com/
 * uikit: http://getuikit.com/
-* Kube: https://imperavi.com/kube/
+* Kube: https://imperavi.com/kube
 * Min: http://mincss.com/
 * Foundation: http://foundation.zurb.com/
 * Semantic UI: http://semantic-ui.com/
@@ -75,6 +75,7 @@
 ### Email
 
 * MailChimp: http://mailchimp.com/
+* Revue: https://getrevue.co/
 * Mailgun: https://www.mailgun.com/
 * Mailjet: https://www.mailjet.com/
 * Mandrill: https://www.mandrill.com/
